@@ -27,8 +27,8 @@ function Footer() {
       <Container fluid>
         <Nav>
           <NavItem>
-            <NavLink href="https://www.creative-tim.com/?ref=bdr-user-archive-footer">
-              Creative Tim
+            <NavLink href="">
+              Dashboard YOLO
             </NavLink>
           </NavItem>
           <NavItem>
